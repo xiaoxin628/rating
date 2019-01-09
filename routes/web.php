@@ -11,6 +11,12 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+use Illuminate\Support\Facades\Auth;
+
+Route::get('/', 'StoreController@index')->name('tore');;
+
+Auth::routes();
+
+//Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/home', 'StoreController@index')->name('home');
+Route::resource('store', 'StoreController');
