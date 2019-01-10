@@ -8,7 +8,25 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
+//Font Awesome
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+
 .navbar-laravel {
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+  margin-bottom: 50px;
+}
+.mainbody{
+	margin: 50px;
+}
+
+//Rating
+.star-checked{
+  color: orange;
+}
+
+//Form
+.action_box{
+	padding-left: 101px;
 }
