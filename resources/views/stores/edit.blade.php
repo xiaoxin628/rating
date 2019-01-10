@@ -34,16 +34,20 @@
           </div>
           <div class="form-group">
               <label for="rate">Rating:</label>
-              <input type="text" class="form-control" name="rate" value="{{$store->rate}}"/>
+              <star-rating :value="{{$store->rate}}" ></star-rating>
           </div>
           <div class="form-group">
               <label for="website">Website:</label>
               <input type="text" class="form-control" name="website" value="{{$store->website}}"/>
           </div>
 
-          <button type="submit" class="btn btn-primary">Add</button>
+          <button type="submit" class="btn btn-primary">Edit</button>
+          
       </form>
   </div>
 </div>
+
+</script>
+
 @endsection
 
