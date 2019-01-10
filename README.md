@@ -9,6 +9,9 @@ These four actions are fundamental for web development.
 
 However, more features are comming later.
 
+
+Vue is using for rating bar, the stars will change when a mouse floats over them.
+
 Pictures
 
 List of stores with pagination
