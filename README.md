@@ -7,4 +7,4 @@ Pictures
 
 
 
-![Alt text] [../master/rating/Readme/1.png?raw=true]
+![Alt text] [https://github.com/xiaoxin628/rating/blob/master/Readme/1.png]
