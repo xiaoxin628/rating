@@ -7,4 +7,4 @@ Pictures
 
 
 
-![Alt text] [/rating/Readme/1.png]
+![Alt text] [/rating/Readme/1.png?raw=true]
