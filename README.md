@@ -14,7 +14,7 @@ Pictures
 List of stores with pagination
 <img src="https://github.com/xiaoxin628/rating/blob/master/Readme/1.png?sanitize=true&raw=true"/>
 Edit of stores
-<img src="https://github.com/xiaoxin628/rating/blob/master/Readme/1.png?sanitize=true&raw=true"/>
+<img src="https://github.com/xiaoxin628/rating/blob/master/Readme/2.png?sanitize=true&raw=true"/>
 Store detail including edit and delete
-<img src="https://github.com/xiaoxin628/rating/blob/master/Readme/1.png?sanitize=true&raw=true"/>
+<img src="https://github.com/xiaoxin628/rating/blob/master/Readme/3.png?sanitize=true&raw=true"/>
 
